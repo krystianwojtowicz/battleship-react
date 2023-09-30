@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { GameBoard } from "../GameBoard/GameBoard";
+import "./Container.css";
 
 export const Container = () => {
   const [rotate, setRotate] = useState<boolean>(false);
@@ -13,7 +15,10 @@ export const Container = () => {
         </p>
       </div>
 
-      <div id="gameboard-container"></div>
+      <div className="gamesboard-container">
+        <GameBoard id="player" />
+        <GameBoard id="computer" className="yellow" />
+      </div>
 
       <div className="option-container">
         <div
