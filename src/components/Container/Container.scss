@@ -4,6 +4,26 @@
   justify-content: space-between;
 }
 
+.destroyer {
+  background-color: brown;
+}
+
+.submarine {
+  background-color: green;
+}
+
+.cruiser {
+  background-color: purple;
+}
+
+.battleship {
+  background-color: orange;
+}
+
+.carrier {
+  background-color: blue;
+}
+
 .option-container {
   width: 500px;
   height: 60px;
@@ -18,18 +38,10 @@
     margin: 3px;
   }
 
-  .destroyer {
-    background-color: brown;
-  }
-
   .submarine-preview {
     width: 30px;
     height: 10px;
     margin: 3px;
-  }
-
-  .submarine {
-    background-color: green;
   }
 
   .cruiser-preview {
@@ -38,28 +50,16 @@
     margin: 3px;
   }
 
-  .cruiser {
-    background-color: purple;
-  }
-
   .battleship-preview {
     width: 40px;
     height: 10px;
     margin: 3px;
   }
 
-  .battleship {
-    background-color: orange;
-  }
-
   .carrier-preview {
     width: 50px;
     height: 10px;
     margin: 3px;
-  }
-
-  .carrier {
-    background-color: blue;
   }
 
   .transform {
