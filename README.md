@@ -1,4 +1,4 @@
-It is unfinished, I create ships randomly for computer and it is checked if they are placed correctly but if they are placed incorrectly then they do not show.
+It is unfinished, I create ships randomly for computer and it is checked if they are placed correctly but if they are placed incorrectly then they do not show, eslintrc does not have good configuration.
 
 # Getting Started with Create React App
 
