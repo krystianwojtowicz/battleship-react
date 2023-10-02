@@ -1,3 +1,5 @@
+It is unfinished, I create ships randomly for computer and it is checked if they are placed correctly but if they are placed incorrectly then they do not show.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
